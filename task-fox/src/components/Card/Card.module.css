@@ -1,0 +1,70 @@
+.card_container {
+  display: flex;
+  background-color: #e69ba5;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034);
+  flex-direction: column;
+  width: 90%;
+  cursor: pointer;
+}
+
+.properties {
+  margin: 0;
+  line-height: 35px;
+  text-align: left;
+}
+
+.container_button {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.edit {
+  background-color: rgb(0, 208, 255);
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.end {
+  background-color: greenyellow;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.container_input {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 2px;
+}
+
+.input {
+  background-color: #d78993;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  width: max-content;
+}
+
+@media screen and (min-width: 768px) {
+  .card_container {
+    width: 100%;
+  }
+}
