@@ -1,0 +1,9 @@
+{
+  "name": "foxNew",
+  "slug": "foxNew",
+  "extra": {
+    "eas": {
+      "projectId": "7a71280b-d5d9-4150-85ad-7f6521e67706"
+    }
+  }
+}
