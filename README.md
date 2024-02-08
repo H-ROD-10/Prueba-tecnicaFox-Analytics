@@ -1,6 +1,6 @@
 # React + TypeScript + Vite and Recat-Native
 
-- [Link de Descarga App Movil](https://drive.google.com/file/d/1l0e6z_6QfFblMvDkmJc7ldeVunjjGJlt/view?usp=drive_link) - Link de descarga de archivo.apk contentivo de la app-movil.
+- [Link de Descarga App Movil](https://expo.dev/artifacts/eas/e7x9fSmKBHcdsHXCvParNd.tar.gz) - Link de descarga de archivo.apk contentivo de la app-movil.
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
